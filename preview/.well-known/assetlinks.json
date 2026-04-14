@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tailio.preview",
+      "sha256_cert_fingerprints": [
+        "2B:55:F6:42:FF:56:A8:B6:27:BF:58:C6:E0:F6:23:D6:7F:3D:C0:A4:E8:88:BF:AA:74:38:94:D5:C8:17:A6:F6",
+        "CA:22:AE:20:D1:A7:8F:1E:DC:2B:AC:5E:97:18:20:C6:FF:6B:E1:85:DD:68:AB:FD:7F:C2:1E:0A:3D:56:41:43"
+      ]
+    }
+  }
+]
